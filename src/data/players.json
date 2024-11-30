@@ -1,0 +1,123 @@
+[
+	{
+	  "playerId": 1,
+	  "name": "Shakib Al Hasan",
+	  "country": "Bangladesh",
+	  "image": "https://images.prothomalo.com/prothomalo-english/2023-12/06850f16-3aa4-454e-80b1-edb32ed1538d/prothomalo_bangla_2023_08_a98c70b2_8380_438c_8c62_bf22879def3d_Shakib_Smiling__3_.webp?w=1200&h=675&auto=format%2Ccompress&fit=max",
+	  "role": "All-rounder",
+	  "biddingPrice": 900,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Left-arm-bowl"
+	},
+	{
+	  "playerId": 2,
+	  "name": "Mashrafe Mortaza",
+	  "country": "Bangladesh",
+	  "image": "https://media.gettyimages.com/id/73620263/photo/port-of-spain-trinidad-and-tobago-mashrafe-mortaza-of-bangladesh-celebrates-the-wicket-of-ajit.jpg?s=612x612&w=gi&k=20&c=P9h9SaibcCuse2R3-crWXmfbfgzPjIDEYDw6X6V_Yxs=",
+	  "role": "All-rounder",
+	  "biddingPrice": 500,
+	  "battingType": "Right-hand-bat",
+	  "bowlingType": "Right-arm-medium"
+	},
+	{
+	  "playerId": 3,
+	  "name": "Tamim Iqbal",
+	  "country": "Bangladesh",
+	  "image": "https://images.thequint.com/thequint%2F2017-06%2Fc9e66c44-2fd1-4e0b-8836-08a75a11e4f6%2FIqbal-123.jpg",
+	  "role": "Batsman",
+	  "biddingPrice": 500,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "N/A"
+	},
+	{
+	  "playerId": 4,
+	  "name": "Mushfiqur Rahim",
+	  "country": "Bangladesh",
+	  "image": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2023/11/untitled-design-2023-11-06t191154-1699278119.jpg",
+	  "role": "Wicketkeeper",
+	  "biddingPrice": 300,
+	  "battingType": "Right-hand-bat",
+	  "bowlingType": "N/A"
+	},
+	{
+	  "playerId": 5,
+	  "name": "Mustafizur Rahman",
+	  "country": "Bangladesh",
+	  "image": "https://www.dailymessenger.net/media/imgAll/2022February/en/16-2312191615.jpg",
+	  "role": "Bowler",
+	  "biddingPrice": 500,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Left-arm-medium"
+	},
+	{
+	  "playerId": 6,
+	  "name": "Taskin Ahmed",
+	  "country": "Bangladesh",
+	  "image": "https://i.ndtvimg.com/i/2016-03/taskin-ahmed_650x400_41458393362.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
+	  "role": "Bowler",
+	  "biddingPrice": 600,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Right-arm-medium"
+	},
+	{
+	  "playerId": 7,
+	  "name": "Mehedy Miraz",
+	  "country": "Bangladesh",
+	  "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2016October/Mehedi-Hasan-Miraz-Cricket-2017032314485120170323151132.jpg",
+	  "role": "All-rounder",
+	  "biddingPrice": 400,
+	  "battingType": "Right-hand-bat",
+	  "bowlingType": "Right-arm-spin"
+	},
+	{
+	  "playerId": 8,
+	  "name": "Shoriful Islam",
+	  "country": "Bangladesh",
+	  "image": "https://static.cricbuzz.com/a/img/v1/i1/c369910/i-am-really-enjoying-my-bowling-at-the-moment-shoriful.jpg?d=low&p=det",
+	  "role": "Bowler",
+	  "biddingPrice": 500,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Left-arm-bowl"
+	},
+	{
+	  "playerId": 9,
+	  "name": "Ab De Villiers",
+	  "country": "South Africa",
+	  "image": "https://c.ndtvimg.com/2021-11/u756k9jg_ab-de-villiers_625x300_19_November_21.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+	  "role": "Batsman",
+	  "biddingPrice": 700,
+	  "battingType": "Right-hand-bat",
+	  "bowlingType": "N/A"
+	},
+	{
+	  "playerId": 10,
+	  "name": "Trent Boult",
+	  "country": "New Zealand",
+	  "image": "https://images.mid-day.com/images/images/2022/aug/Boult-MI-Emirates_d.jpg",
+	  "role": "Bowler",
+	  "biddingPrice": 900,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Left-arm-bowl"
+	},
+	{
+	  "playerId": 11,
+	  "name": "James Anderson",
+	  "country": "England",
+	  "image": "https://thefederal.com/h-upload/2024/02/04/429159-james-anderson.webp",
+	  "role": "Bowler",
+	  "biddingPrice": 700,
+	  "battingType": "Right-hand-bat",
+	  "bowlingType": "Right-arm-bowl"
+	},
+	{
+	  "playerId": 12,
+	  "name": "Mitchell Starc",
+	  "country": "Australia",
+	  "image": "https://static.cricketaddictor.com/images/2024/MitchellStarcinCWC2023.jpg?q=80",
+	  "role": "Bowler",
+	  "biddingPrice": 800,
+	  "battingType": "Left-hand-bat",
+	  "bowlingType": "Left-arm-bowl"
+	}
+  ]
+  
